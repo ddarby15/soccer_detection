@@ -1,4 +1,4 @@
-## Run the examples
+## Run the soccer object detection model 
 
 1.  [Set up your Coral Dev Board device](https://coral.ai/docs/dev-board/get-started/)
 
@@ -14,9 +14,9 @@
     pip install requirements.txt
     ```
 
-or
+    or
 
-Create a conda virtual enviuronment and install the necessary dependencies and activate the environment:
+    Create a conda virtual enviuronment and install the necessary dependencies and activate the environment:
 
     ```
     conda env create -f environment.yml
