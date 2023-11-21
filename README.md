@@ -1,7 +1,6 @@
 ## Run the examples
 
-1.  [Set up your Coral Dev Board device](https://coral.ai/docs/dev-board/get-started/) (includes steps
-to install this PyCoral library).
+1.  [Set up your Coral Dev Board device](https://coral.ai/docs/dev-board/get-started/)
 
 2.  Clone this repo onto the Coral Dev board:
 
